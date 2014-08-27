@@ -1,0 +1,14 @@
+{
+  "name": "quakes",
+  "version": "0.0.0",
+  "description": "",
+  "main": "quakes.js",
+  "author": "Ragnar B. Johannsson <ragnar@igo.is>",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.5.1",
+    "jit-grunt": "^0.8.0"
+  }
+}
