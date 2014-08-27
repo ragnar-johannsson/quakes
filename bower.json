@@ -1,0 +1,20 @@
+{
+  "name": "quakes",
+  "version": "0.0.0",
+  "authors": [
+    "Ragnar B. Johannsson <ragnar@igo.is>"
+  ],
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.fn": "git@github.com:padolsey/jquery.fn.git",
+    "google-maps-utility-library-v3": "*"
+  }
+}
